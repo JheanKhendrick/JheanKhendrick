@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @JheanKhendrick
-- 👀 I’m interested in a lot of stuff
-- 🌱 I’m currently learning anything I take interest in
-- 💞️ I’m looking to collaborate on any stuffs
-- 📫 Reach me thru my gmail: drakekhendrick@gmail.com
 
 <!---
 JheanKhendrick/JheanKhendrick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
